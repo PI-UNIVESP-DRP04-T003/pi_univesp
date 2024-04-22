@@ -1,189 +1,189 @@
-﻿Período;Polo;Curso;Eixo;Disciplina;Turma;Código Disciplina;Código Prof. Respons.;Código Prof. Videoaula
-S1_2024;Campinas;Bacharelado em Ciências de Dados;Computação;Aprendizado de Máquinas;002;COM330;10034;10020
-S1_2024;Campinas;Bacharelado em Ciências de Dados;Computação;Computação Escalável;002;COM250;10040;10090
-S1_2024;Campinas;Bacharelado em Ciências de Dados;Computação;Infraestrutura para Sistemas de Software;005;COM140;10012;10060
-S1_2024;Campinas;Bacharelado em Ciências de Dados;Computação;Projeto Integrador III;006;PJI410;10015;10015
-S1_2024;Campinas;Bacharelado em Ciências de Dados;Computação;Visualização Computacional;001;COM490;10020;10048
-S1_2024;Campinas;Bacharelado em Tecnologia da Informação;Computação;Computação Escalável;002;COM460;10021;10058
-S1_2024;Campinas;Bacharelado em Tecnologia da Informação;Computação;Gerência e Qualidade de Software;001;COM480;10012;10054
-S1_2024;Campinas;Bacharelado em Tecnologia da Informação;Computação;Planejamento Estratégico de Negócios;002;COM470;10027;10061
-S1_2024;Campinas;Bacharelado em Tecnologia da Informação;Computação;Projeto Integrador III;001;PJI310;10011;10011
-S1_2024;Campinas;Bacharelado em Tecnologia da Informação;Computação;Sistemas de Informação;001;ISI001;10013;10052
-S1_2024;Campinas;Engenharia da Computação;Computação;Desenvolvimento web;003;COM200;10022;10059
-S1_2024;Campinas;Engenharia da Computação;Computação;Infraestrutura para Sistemas de Software;007;COM170;10017;10039
-S1_2024;Campinas;Engenharia da Computação;Computação;Interface Humano Computador;004;COM300;10014;10074
-S1_2024;Campinas;Engenharia da Computação;Computação;Plataforma de Ingestão e Análise de Dados;007;COM320;10024;10085
-S1_2024;Campinas;Engenharia da Computação;Computação;Projeto Integrador III;001;PJI120;10030;10030
-S1_2024;São Bernardo do Campo;Bacharelado em Ciências de Dados;Computação;Aprendizado de Máquinas;002;COM330;10034;10020
-S1_2024;São Bernardo do Campo;Bacharelado em Ciências de Dados;Computação;Computação Escalável;002;COM250;10040;10090
-S1_2024;São Bernardo do Campo;Bacharelado em Ciências de Dados;Computação;Infraestrutura para Sistemas de Software;005;COM140;10012;10060
-S1_2024;São Bernardo do Campo;Bacharelado em Ciências de Dados;Computação;Projeto Integrador III;006;PJI410;10015;10015
-S1_2024;São Bernardo do Campo;Bacharelado em Ciências de Dados;Computação;Visualização Computacional;001;COM490;10020;10048
-S1_2024;São Bernardo do Campo;Bacharelado em Tecnologia da Informação;Computação;Computação Escalável;002;COM460;10021;10058
-S1_2024;São Bernardo do Campo;Bacharelado em Tecnologia da Informação;Computação;Gerência e Qualidade de Software;001;COM480;10012;10054
-S1_2024;São Bernardo do Campo;Bacharelado em Tecnologia da Informação;Computação;Planejamento Estratégico de Negócios;002;COM470;10027;10061
-S1_2024;São Bernardo do Campo;Bacharelado em Tecnologia da Informação;Computação;Projeto Integrador III;001;PJI310;10011;10011
-S1_2024;São Bernardo do Campo;Bacharelado em Tecnologia da Informação;Computação;Sistemas de Informação;001;ISI001;10013;10052
-S1_2024;São Bernardo do Campo;Engenharia da Computação;Computação;Desenvolvimento web;003;COM200;10022;10059
-S1_2024;São Bernardo do Campo;Engenharia da Computação;Computação;Infraestrutura para Sistemas de Software;007;COM170;10017;10039
-S1_2024;São Bernardo do Campo;Engenharia da Computação;Computação;Interface Humano Computador;004;COM300;10014;10074
-S1_2024;São Bernardo do Campo;Engenharia da Computação;Computação;Plataforma de Ingestão e Análise de Dados;007;COM320;10024;10085
-S1_2024;São Bernardo do Campo;Engenharia da Computação;Computação;Projeto Integrador III;001;PJI120;10030;10030
-S1_2024;Valinhos;Bacharelado em Ciências de Dados;Computação;Aprendizado de Máquinas;002;COM330;10034;10020
-S1_2024;Valinhos;Bacharelado em Ciências de Dados;Computação;Computação Escalável;002;COM250;10040;10090
-S1_2024;Valinhos;Bacharelado em Ciências de Dados;Computação;Infraestrutura para Sistemas de Software;005;COM140;10012;10060
-S1_2024;Valinhos;Bacharelado em Ciências de Dados;Computação;Projeto Integrador III;006;PJI410;10015;10015
-S1_2024;Valinhos;Bacharelado em Ciências de Dados;Computação;Visualização Computacional;001;COM490;10020;10048
-S1_2024;Valinhos;Bacharelado em Tecnologia da Informação;Computação;Computação Escalável;002;COM460;10021;10058
-S1_2024;Valinhos;Bacharelado em Tecnologia da Informação;Computação;Gerência e Qualidade de Software;001;COM480;10012;10054
-S1_2024;Valinhos;Bacharelado em Tecnologia da Informação;Computação;Planejamento Estratégico de Negócios;002;COM470;10027;10061
-S1_2024;Valinhos;Bacharelado em Tecnologia da Informação;Computação;Projeto Integrador III;001;PJI310;10011;10011
-S1_2024;Valinhos;Bacharelado em Tecnologia da Informação;Computação;Sistemas de Informação;001;ISI001;10013;10052
-S1_2024;Valinhos;Engenharia da Computação;Computação;Desenvolvimento web;003;COM200;10022;10059
-S1_2024;Valinhos;Engenharia da Computação;Computação;Infraestrutura para Sistemas de Software;007;COM170;10017;10039
-S1_2024;Valinhos;Engenharia da Computação;Computação;Interface Humano Computador;004;COM300;10014;10074
-S1_2024;Valinhos;Engenharia da Computação;Computação;Plataforma de Ingestão e Análise de Dados;007;COM320;10024;10085
-S1_2024;Valinhos;Engenharia da Computação;Computação;Projeto Integrador III;001;PJI120;10030;10030
-S1_2024;Vargem Grande do Sul;Bacharelado em Ciências de Dados;Computação;Aprendizado de Máquinas;002;COM330;10034;10020
-S1_2024;Vargem Grande do Sul;Bacharelado em Ciências de Dados;Computação;Computação Escalável;002;COM250;10040;10090
-S1_2024;Vargem Grande do Sul;Bacharelado em Ciências de Dados;Computação;Infraestrutura para Sistemas de Software;005;COM140;10012;10060
-S1_2024;Vargem Grande do Sul;Bacharelado em Ciências de Dados;Computação;Projeto Integrador III;006;PJI410;10015;10015
-S1_2024;Vargem Grande do Sul;Bacharelado em Ciências de Dados;Computação;Visualização Computacional;001;COM490;10020;10048
-S1_2024;Vargem Grande do Sul;Bacharelado em Tecnologia da Informação;Computação;Computação Escalável;002;COM460;10021;10058
-S1_2024;Vargem Grande do Sul;Bacharelado em Tecnologia da Informação;Computação;Gerência e Qualidade de Software;001;COM480;10012;10054
-S1_2024;Vargem Grande do Sul;Bacharelado em Tecnologia da Informação;Computação;Planejamento Estratégico de Negócios;002;COM470;10027;10061
-S1_2024;Vargem Grande do Sul;Bacharelado em Tecnologia da Informação;Computação;Projeto Integrador III;001;PJI310;10011;10011
-S1_2024;Vargem Grande do Sul;Bacharelado em Tecnologia da Informação;Computação;Sistemas de Informação;001;ISI001;10013;10052
-S1_2024;Vargem Grande do Sul;Engenharia da Computação;Computação;Desenvolvimento web;003;COM200;10022;10059
-S1_2024;Vargem Grande do Sul;Engenharia da Computação;Computação;Infraestrutura para Sistemas de Software;007;COM170;10017;10039
-S1_2024;Vargem Grande do Sul;Engenharia da Computação;Computação;Interface Humano Computador;004;COM300;10014;10074
-S1_2024;Vargem Grande do Sul;Engenharia da Computação;Computação;Plataforma de Ingestão e Análise de Dados;007;COM320;10024;10085
-S1_2024;Vargem Grande do Sul;Engenharia da Computação;Computação;Projeto Integrador III;001;PJI120;10030;10030
-S1_2024;Campinas;Letras;Licenciatura;Estudos de Literatura em Língua Portuguesa ;004;LET100;20020;20067
-S1_2024;Campinas;Letras;Licenciatura;Gêneros Narrativos na Literatura Brasileira;002;LET620;20036;20091
-S1_2024;Campinas;Letras;Licenciatura;Metodologia e Desenvolvimento de Materiais Didáticos para o Ensino;002;LET007;20042;20083
-S1_2024;Campinas;Letras;Licenciatura;Projeto Integrador para Licenciatura V;001;PJI340;20010;20010
-S1_2024;Campinas;Letras;Licenciatura;Semântica;004;LET330;20026;20058
-S1_2024;Campinas;Matemática;Licenciatura;Cálculo II para Licentura;005;MAT440;20043;20087
-S1_2024;Campinas;Matemática;Licenciatura;Geometria Espacial;001;MAT130;20050;20031
-S1_2024;Campinas;Matemática;Licenciatura;Lógica e Matemática Discreta;005;MAT270;20012;20049
-S1_2024;Campinas;Matemática;Licenciatura;Materiais Didáticos para o Ensino;001;MAT510;20035;20097
-S1_2024;Campinas;Matemática;Licenciatura;Projeto Integrador para Licenciatura IV;003;PJI200;20020;20020
-S1_2024;Campinas;Pedagogia;Licenciatura;Fundamentos e Práticas no Ensino de Geografia;001;PED060;20041;20063
-S1_2024;Campinas;Pedagogia;Licenciatura;Fundamentos e Práticas no Ensino de História;006;PED400;20070;20098
-S1_2024;Campinas;Pedagogia;Licenciatura;Fundamentos e Práticas no Ensino de Matemática;002;PED140;20024;20077
-S1_2024;Campinas;Pedagogia;Licenciatura;Materiais Didáticos para o Ensino;006;PED220;20011;20095
-S1_2024;Campinas;Pedagogia;Licenciatura;Projeto Integrador - Ação Docente na Alfabetização;001;PJI300;20040;20040
-S1_2024;São Bernardo do Campo;Letras;Licenciatura;Estudos de Literatura em Língua Portuguesa ;004;LET100;20020;20067
-S1_2024;São Bernardo do Campo;Letras;Licenciatura;Gêneros Narrativos na Literatura Brasileira;002;LET620;20036;20091
-S1_2024;São Bernardo do Campo;Letras;Licenciatura;Metodologia e Desenvolvimento de Materiais Didáticos para o Ensino;002;LET007;20042;20083
-S1_2024;São Bernardo do Campo;Letras;Licenciatura;Projeto Integrador para Licenciatura V;001;PJI340;20010;20010
-S1_2024;São Bernardo do Campo;Letras;Licenciatura;Semântica;004;LET330;20026;20058
-S1_2024;São Bernardo do Campo;Matemática;Licenciatura;Cálculo II para Licentura;005;MAT440;20043;20087
-S1_2024;São Bernardo do Campo;Matemática;Licenciatura;Geometria Espacial;001;MAT130;20050;20031
-S1_2024;São Bernardo do Campo;Matemática;Licenciatura;Lógica e Matemática Discreta;005;MAT270;20012;20049
-S1_2024;São Bernardo do Campo;Matemática;Licenciatura;Materiais Didáticos para o Ensino;001;MAT510;20035;20097
-S1_2024;São Bernardo do Campo;Matemática;Licenciatura;Projeto Integrador para Licenciatura IV;003;PJI200;20020;20020
-S1_2024;São Bernardo do Campo;Pedagogia;Licenciatura;Fundamentos e Práticas no Ensino de Geografia;001;PED060;20041;20063
-S1_2024;São Bernardo do Campo;Pedagogia;Licenciatura;Fundamentos e Práticas no Ensino de História;006;PED400;20070;20098
-S1_2024;São Bernardo do Campo;Pedagogia;Licenciatura;Fundamentos e Práticas no Ensino de Matemática;002;PED140;20024;20077
-S1_2024;São Bernardo do Campo;Pedagogia;Licenciatura;Materiais Didáticos para o Ensino;006;PED220;20011;20095
-S1_2024;São Bernardo do Campo;Pedagogia;Licenciatura;Projeto Integrador - Ação Docente na Alfabetização;001;PJI300;20040;20040
-S1_2024;Valinhos;Letras;Licenciatura;Estudos de Literatura em Língua Portuguesa ;004;LET100;20020;20067
-S1_2024;Valinhos;Letras;Licenciatura;Gêneros Narrativos na Literatura Brasileira;002;LET620;20036;20091
-S1_2024;Valinhos;Letras;Licenciatura;Metodologia e Desenvolvimento de Materiais Didáticos para o Ensino;002;LET007;20042;20083
-S1_2024;Valinhos;Letras;Licenciatura;Projeto Integrador para Licenciatura V;001;PJI340;20010;20010
-S1_2024;Valinhos;Letras;Licenciatura;Semântica;004;LET330;20026;20058
-S1_2024;Valinhos;Matemática;Licenciatura;Cálculo II para Licentura;005;MAT440;20043;20087
-S1_2024;Valinhos;Matemática;Licenciatura;Geometria Espacial;001;MAT130;20050;20031
-S1_2024;Valinhos;Matemática;Licenciatura;Lógica e Matemática Discreta;005;MAT270;20012;20049
-S1_2024;Valinhos;Matemática;Licenciatura;Materiais Didáticos para o Ensino;001;MAT510;20035;20097
-S1_2024;Valinhos;Matemática;Licenciatura;Projeto Integrador para Licenciatura IV;003;PJI200;20020;20020
-S1_2024;Valinhos;Pedagogia;Licenciatura;Fundamentos e Práticas no Ensino de Geografia;001;PED060;20041;20063
-S1_2024;Valinhos;Pedagogia;Licenciatura;Fundamentos e Práticas no Ensino de História;006;PED400;20070;20098
-S1_2024;Valinhos;Pedagogia;Licenciatura;Fundamentos e Práticas no Ensino de Matemática;002;PED140;20024;20077
-S1_2024;Valinhos;Pedagogia;Licenciatura;Materiais Didáticos para o Ensino;006;PED220;20011;20095
-S1_2024;Valinhos;Pedagogia;Licenciatura;Projeto Integrador - Ação Docente na Alfabetização;001;PJI300;20040;20040
-S1_2024;Vargem Grande do Sul;Letras;Licenciatura;Estudos de Literatura em Língua Portuguesa ;004;LET100;20020;20067
-S1_2024;Vargem Grande do Sul;Letras;Licenciatura;Gêneros Narrativos na Literatura Brasileira;002;LET620;20036;20091
-S1_2024;Vargem Grande do Sul;Letras;Licenciatura;Metodologia e Desenvolvimento de Materiais Didáticos para o Ensino;002;LET007;20042;20083
-S1_2024;Vargem Grande do Sul;Letras;Licenciatura;Projeto Integrador para Licenciatura V;001;PJI340;20010;20010
-S1_2024;Vargem Grande do Sul;Letras;Licenciatura;Semântica;004;LET330;20026;20058
-S1_2024;Vargem Grande do Sul;Matemática;Licenciatura;Cálculo II para Licentura;005;MAT440;20043;20087
-S1_2024;Vargem Grande do Sul;Matemática;Licenciatura;Geometria Espacial;001;MAT130;20050;20031
-S1_2024;Vargem Grande do Sul;Matemática;Licenciatura;Lógica e Matemática Discreta;005;MAT270;20012;20049
-S1_2024;Vargem Grande do Sul;Matemática;Licenciatura;Materiais Didáticos para o Ensino;001;MAT510;20035;20097
-S1_2024;Vargem Grande do Sul;Matemática;Licenciatura;Projeto Integrador para Licenciatura IV;003;PJI200;20020;20020
-S1_2024;Vargem Grande do Sul;Pedagogia;Licenciatura;Fundamentos e Práticas no Ensino de Geografia;001;PED060;20041;20063
-S1_2024;Vargem Grande do Sul;Pedagogia;Licenciatura;Fundamentos e Práticas no Ensino de História;006;PED400;20070;20098
-S1_2024;Vargem Grande do Sul;Pedagogia;Licenciatura;Fundamentos e Práticas no Ensino de Matemática;002;PED140;20024;20077
-S1_2024;Vargem Grande do Sul;Pedagogia;Licenciatura;Materiais Didáticos para o Ensino;006;PED220;20011;20095
-S1_2024;Vargem Grande do Sul;Pedagogia;Licenciatura;Projeto Integrador - Ação Docente na Alfabetização;001;PJI300;20040;20040
-S1_2024;Campinas;Bacharelado em Administração;Negócios e Produção;Ferramentas de análise e Business Intelligence (BI);007;ADM100;30026;30059
-S1_2024;Campinas;Bacharelado em Administração;Negócios e Produção;Metodologias Ágeis;004;ADM130;30034;30055
-S1_2024;Campinas;Bacharelado em Administração;Negócios e Produção;Organizações Digitais e Modelos de Negócios;004;ADM210;30017;30089
-S1_2024;Campinas;Bacharelado em Administração;Negócios e Produção;Planejamento Tributário;007;ADM300;30062;30080
-S1_2024;Campinas;Bacharelado em Administração;Negócios e Produção;Política Pública e Gestão Social;001;ADM420;30021;30064
-S1_2024;Campinas;Bacharelado em Administração;Negócios e Produção;Projeto Integrador - Gestão Social;003;PJI040;30040;30040
-S1_2024;Campinas;Engenharia de Produção;Negócios e Produção;Ciências do Ambiente;008;CAM400;30011;30024
-S1_2024;Campinas;Engenharia de Produção;Negócios e Produção;Indústria 4.0;001;EPR450;30015;30068
-S1_2024;Campinas;Engenharia de Produção;Negócios e Produção;Projeto e Desenvolvimento de Produto;004;EPR460;30013;30040
-S1_2024;Campinas;Engenharia de Produção;Negócios e Produção;Projeto Integrador III - Negócios e Produção;003;PJI600;30030;30030
-S1_2024;Campinas;Engenharia de Produção;Negócios e Produção;Simulação e Modolagem;001;EPR470;30022;30057
-S1_2024;Campinas;Tecnologia em Processos Gerenciais;Negócios e Produção;Ferramentas de análise e Business Intelligence (BI);002;TEC270;30017;30093
-S1_2024;Campinas;Tecnologia em Processos Gerenciais;Negócios e Produção;Metodologias Ágeis;004;TEC100;30024;30065
-S1_2024;Campinas;Tecnologia em Processos Gerenciais;Negócios e Produção;Organizações Digitais e Modelos de Negócios;001;TEC470;30068;30099
-S1_2024;Campinas;Tecnologia em Processos Gerenciais;Negócios e Produção;Planejamento e Ferramentas de Gestão Estratégica;004;TEC120;30041;30078
-S1_2024;Campinas;Tecnologia em Processos Gerenciais;Negócios e Produção;Planejamento Tributário;003;TEC360;30050;30080
-S1_2024;Campinas;Tecnologia em Processos Gerenciais;Negócios e Produção;Projeto Integrador - Laboratório de Práticas;001;PJI230;30040;30040
-S1_2024;São Bernardo do Campo;Bacharelado em Administração;Negócios e Produção;Ferramentas de análise e Business Intelligence (BI);007;ADM100;30026;30059
-S1_2024;São Bernardo do Campo;Bacharelado em Administração;Negócios e Produção;Metodologias Ágeis;004;ADM130;30034;30055
-S1_2024;São Bernardo do Campo;Bacharelado em Administração;Negócios e Produção;Organizações Digitais e Modelos de Negócios;004;ADM210;30017;30089
-S1_2024;São Bernardo do Campo;Bacharelado em Administração;Negócios e Produção;Planejamento Tributário;007;ADM300;30062;30080
-S1_2024;São Bernardo do Campo;Bacharelado em Administração;Negócios e Produção;Política Pública e Gestão Social;001;ADM420;30021;30064
-S1_2024;São Bernardo do Campo;Bacharelado em Administração;Negócios e Produção;Projeto Integrador - Gestão Social;003;PJI040;30040;30040
-S1_2024;São Bernardo do Campo;Engenharia de Produção;Negócios e Produção;Ciências do Ambiente;008;CAM400;30011;30024
-S1_2024;São Bernardo do Campo;Engenharia de Produção;Negócios e Produção;Indústria 4.0;001;EPR450;30015;30068
-S1_2024;São Bernardo do Campo;Engenharia de Produção;Negócios e Produção;Projeto e Desenvolvimento de Produto;004;EPR460;30013;30040
-S1_2024;São Bernardo do Campo;Engenharia de Produção;Negócios e Produção;Projeto Integrador III - Negócios e Produção;003;PJI600;30030;30030
-S1_2024;São Bernardo do Campo;Engenharia de Produção;Negócios e Produção;Simulação e Modolagem;001;EPR470;30022;30057
-S1_2024;São Bernardo do Campo;Tecnologia em Processos Gerenciais;Negócios e Produção;Ferramentas de análise e Business Intelligence (BI);002;TEC270;30017;30093
-S1_2024;São Bernardo do Campo;Tecnologia em Processos Gerenciais;Negócios e Produção;Metodologias Ágeis;004;TEC100;30024;30065
-S1_2024;São Bernardo do Campo;Tecnologia em Processos Gerenciais;Negócios e Produção;Organizações Digitais e Modelos de Negócios;001;TEC470;30068;30099
-S1_2024;São Bernardo do Campo;Tecnologia em Processos Gerenciais;Negócios e Produção;Planejamento e Ferramentas de Gestão Estratégica;004;TEC120;30041;30078
-S1_2024;São Bernardo do Campo;Tecnologia em Processos Gerenciais;Negócios e Produção;Planejamento Tributário;003;TEC360;30050;30080
-S1_2024;São Bernardo do Campo;Tecnologia em Processos Gerenciais;Negócios e Produção;Projeto Integrador - Laboratório de Práticas;001;PJI230;30040;30040
-S1_2024;Valinhos;Bacharelado em Administração;Negócios e Produção;Ferramentas de análise e Business Intelligence (BI);007;ADM100;30026;30059
-S1_2024;Valinhos;Bacharelado em Administração;Negócios e Produção;Metodologias Ágeis;004;ADM130;30034;30055
-S1_2024;Valinhos;Bacharelado em Administração;Negócios e Produção;Organizações Digitais e Modelos de Negócios;004;ADM210;30017;30089
-S1_2024;Valinhos;Bacharelado em Administração;Negócios e Produção;Planejamento Tributário;007;ADM300;30062;30080
-S1_2024;Valinhos;Bacharelado em Administração;Negócios e Produção;Política Pública e Gestão Social;001;ADM420;30021;30064
-S1_2024;Valinhos;Bacharelado em Administração;Negócios e Produção;Projeto Integrador - Gestão Social;003;PJI040;30040;30040
-S1_2024;Valinhos;Engenharia de Produção;Negócios e Produção;Ciências do Ambiente;008;CAM400;30011;30024
-S1_2024;Valinhos;Engenharia de Produção;Negócios e Produção;Indústria 4.0;001;EPR450;30015;30068
-S1_2024;Valinhos;Engenharia de Produção;Negócios e Produção;Projeto e Desenvolvimento de Produto;004;EPR460;30013;30040
-S1_2024;Valinhos;Engenharia de Produção;Negócios e Produção;Projeto Integrador III - Negócios e Produção;003;PJI600;30030;30030
-S1_2024;Valinhos;Engenharia de Produção;Negócios e Produção;Simulação e Modolagem;001;EPR470;30022;30057
-S1_2024;Valinhos;Tecnologia em Processos Gerenciais;Negócios e Produção;Ferramentas de análise e Business Intelligence (BI);002;TEC270;30017;30093
-S1_2024;Valinhos;Tecnologia em Processos Gerenciais;Negócios e Produção;Metodologias Ágeis;004;TEC100;30024;30065
-S1_2024;Valinhos;Tecnologia em Processos Gerenciais;Negócios e Produção;Organizações Digitais e Modelos de Negócios;001;TEC470;30068;30099
-S1_2024;Valinhos;Tecnologia em Processos Gerenciais;Negócios e Produção;Planejamento e Ferramentas de Gestão Estratégica;004;TEC120;30041;30078
-S1_2024;Valinhos;Tecnologia em Processos Gerenciais;Negócios e Produção;Planejamento Tributário;003;TEC360;30050;30080
-S1_2024;Valinhos;Tecnologia em Processos Gerenciais;Negócios e Produção;Projeto Integrador - Laboratório de Práticas;001;PJI230;30040;30040
-S1_2024;Vargem Grande do Sul;Bacharelado em Administração;Negócios e Produção;Ferramentas de análise e Business Intelligence (BI);007;ADM100;30026;30059
-S1_2024;Vargem Grande do Sul;Bacharelado em Administração;Negócios e Produção;Metodologias Ágeis;004;ADM130;30034;30055
-S1_2024;Vargem Grande do Sul;Bacharelado em Administração;Negócios e Produção;Organizações Digitais e Modelos de Negócios;004;ADM210;30017;30089
-S1_2024;Vargem Grande do Sul;Bacharelado em Administração;Negócios e Produção;Planejamento Tributário;007;ADM300;30062;30080
-S1_2024;Vargem Grande do Sul;Bacharelado em Administração;Negócios e Produção;Política Pública e Gestão Social;001;ADM420;30021;30064
-S1_2024;Vargem Grande do Sul;Bacharelado em Administração;Negócios e Produção;Projeto Integrador - Gestão Social;003;PJI040;30040;30040
-S1_2024;Vargem Grande do Sul;Engenharia de Produção;Negócios e Produção;Ciências do Ambiente;008;CAM400;30011;30024
-S1_2024;Vargem Grande do Sul;Engenharia de Produção;Negócios e Produção;Indústria 4.0;001;EPR450;30015;30068
-S1_2024;Vargem Grande do Sul;Engenharia de Produção;Negócios e Produção;Projeto e Desenvolvimento de Produto;004;EPR460;30013;30040
-S1_2024;Vargem Grande do Sul;Engenharia de Produção;Negócios e Produção;Projeto Integrador III - Negócios e Produção;003;PJI600;30030;30030
-S1_2024;Vargem Grande do Sul;Engenharia de Produção;Negócios e Produção;Simulação e Modolagem;001;EPR470;30022;30057
-S1_2024;Vargem Grande do Sul;Tecnologia em Processos Gerenciais;Negócios e Produção;Ferramentas de análise e Business Intelligence (BI);002;TEC270;30017;30093
-S1_2024;Vargem Grande do Sul;Tecnologia em Processos Gerenciais;Negócios e Produção;Metodologias Ágeis;004;TEC100;30024;30065
-S1_2024;Vargem Grande do Sul;Tecnologia em Processos Gerenciais;Negócios e Produção;Organizações Digitais e Modelos de Negócios;001;TEC470;30068;30099
-S1_2024;Vargem Grande do Sul;Tecnologia em Processos Gerenciais;Negócios e Produção;Planejamento e Ferramentas de Gestão Estratégica;004;TEC120;30041;30078
-S1_2024;Vargem Grande do Sul;Tecnologia em Processos Gerenciais;Negócios e Produção;Planejamento Tributário;003;TEC360;30050;30080
-S1_2024;Vargem Grande do Sul;Tecnologia em Processos Gerenciais;Negócios e Produção;Projeto Integrador - Laboratório de Práticas;001;PJI230;30040;30040
+﻿id;Período;Polo;Curso;Eixo;Disciplina;Turma;Código Disciplina;Código Prof. Respons.;Código Prof. Videoaula
+1;S1_2024;Campinas;Bacharelado em Ciências de Dados;Computação;Aprendizado de Máquinas;002;COM330;10034;10020
+2;S1_2024;Campinas;Bacharelado em Ciências de Dados;Computação;Computação Escalável;002;COM250;10040;10090
+3;S1_2024;Campinas;Bacharelado em Ciências de Dados;Computação;Infraestrutura para Sistemas de Software;005;COM140;10012;10060
+4;S1_2024;Campinas;Bacharelado em Ciências de Dados;Computação;Projeto Integrador III;006;PJI410;10015;10015
+5;S1_2024;Campinas;Bacharelado em Ciências de Dados;Computação;Visualização Computacional;001;COM490;10020;10048
+6;S1_2024;Campinas;Bacharelado em Tecnologia da Informação;Computação;Computação Escalável;002;COM460;10021;10058
+7;S1_2024;Campinas;Bacharelado em Tecnologia da Informação;Computação;Gerência e Qualidade de Software;001;COM480;10012;10054
+8;S1_2024;Campinas;Bacharelado em Tecnologia da Informação;Computação;Planejamento Estratégico de Negócios;002;COM470;10027;10061
+9;S1_2024;Campinas;Bacharelado em Tecnologia da Informação;Computação;Projeto Integrador III;001;PJI310;10011;10011
+10;S1_2024;Campinas;Bacharelado em Tecnologia da Informação;Computação;Sistemas de Informação;001;ISI001;10013;10052
+11;S1_2024;Campinas;Engenharia da Computação;Computação;Desenvolvimento web;003;COM200;10022;10059
+12;S1_2024;Campinas;Engenharia da Computação;Computação;Infraestrutura para Sistemas de Software;007;COM170;10017;10039
+13;S1_2024;Campinas;Engenharia da Computação;Computação;Interface Humano Computador;004;COM300;10014;10074
+14;S1_2024;Campinas;Engenharia da Computação;Computação;Plataforma de Ingestão e Análise de Dados;007;COM320;10024;10085
+15;S1_2024;Campinas;Engenharia da Computação;Computação;Projeto Integrador III;001;PJI120;10030;10030
+16;S1_2024;São Bernardo do Campo;Bacharelado em Ciências de Dados;Computação;Aprendizado de Máquinas;002;COM330;10034;10020
+17;S1_2024;São Bernardo do Campo;Bacharelado em Ciências de Dados;Computação;Computação Escalável;002;COM250;10040;10090
+18;S1_2024;São Bernardo do Campo;Bacharelado em Ciências de Dados;Computação;Infraestrutura para Sistemas de Software;005;COM140;10012;10060
+19;S1_2024;São Bernardo do Campo;Bacharelado em Ciências de Dados;Computação;Projeto Integrador III;006;PJI410;10015;10015
+20;S1_2024;São Bernardo do Campo;Bacharelado em Ciências de Dados;Computação;Visualização Computacional;001;COM490;10020;10048
+21;S1_2024;São Bernardo do Campo;Bacharelado em Tecnologia da Informação;Computação;Computação Escalável;002;COM460;10021;10058
+22;S1_2024;São Bernardo do Campo;Bacharelado em Tecnologia da Informação;Computação;Gerência e Qualidade de Software;001;COM480;10012;10054
+23;S1_2024;São Bernardo do Campo;Bacharelado em Tecnologia da Informação;Computação;Planejamento Estratégico de Negócios;002;COM470;10027;10061
+24;S1_2024;São Bernardo do Campo;Bacharelado em Tecnologia da Informação;Computação;Projeto Integrador III;001;PJI310;10011;10011
+25;S1_2024;São Bernardo do Campo;Bacharelado em Tecnologia da Informação;Computação;Sistemas de Informação;001;ISI001;10013;10052
+26;S1_2024;São Bernardo do Campo;Engenharia da Computação;Computação;Desenvolvimento web;003;COM200;10022;10059
+27;S1_2024;São Bernardo do Campo;Engenharia da Computação;Computação;Infraestrutura para Sistemas de Software;007;COM170;10017;10039
+28;S1_2024;São Bernardo do Campo;Engenharia da Computação;Computação;Interface Humano Computador;004;COM300;10014;10074
+29;S1_2024;São Bernardo do Campo;Engenharia da Computação;Computação;Plataforma de Ingestão e Análise de Dados;007;COM320;10024;10085
+30;S1_2024;São Bernardo do Campo;Engenharia da Computação;Computação;Projeto Integrador III;001;PJI120;10030;10030
+31;S1_2024;Valinhos;Bacharelado em Ciências de Dados;Computação;Aprendizado de Máquinas;002;COM330;10034;10020
+32;S1_2024;Valinhos;Bacharelado em Ciências de Dados;Computação;Computação Escalável;002;COM250;10040;10090
+33;S1_2024;Valinhos;Bacharelado em Ciências de Dados;Computação;Infraestrutura para Sistemas de Software;005;COM140;10012;10060
+34;S1_2024;Valinhos;Bacharelado em Ciências de Dados;Computação;Projeto Integrador III;006;PJI410;10015;10015
+35;S1_2024;Valinhos;Bacharelado em Ciências de Dados;Computação;Visualização Computacional;001;COM490;10020;10048
+36;S1_2024;Valinhos;Bacharelado em Tecnologia da Informação;Computação;Computação Escalável;002;COM460;10021;10058
+37;S1_2024;Valinhos;Bacharelado em Tecnologia da Informação;Computação;Gerência e Qualidade de Software;001;COM480;10012;10054
+38;S1_2024;Valinhos;Bacharelado em Tecnologia da Informação;Computação;Planejamento Estratégico de Negócios;002;COM470;10027;10061
+39;S1_2024;Valinhos;Bacharelado em Tecnologia da Informação;Computação;Projeto Integrador III;001;PJI310;10011;10011
+40;S1_2024;Valinhos;Bacharelado em Tecnologia da Informação;Computação;Sistemas de Informação;001;ISI001;10013;10052
+41;S1_2024;Valinhos;Engenharia da Computação;Computação;Desenvolvimento web;003;COM200;10022;10059
+42;S1_2024;Valinhos;Engenharia da Computação;Computação;Infraestrutura para Sistemas de Software;007;COM170;10017;10039
+43;S1_2024;Valinhos;Engenharia da Computação;Computação;Interface Humano Computador;004;COM300;10014;10074
+44;S1_2024;Valinhos;Engenharia da Computação;Computação;Plataforma de Ingestão e Análise de Dados;007;COM320;10024;10085
+45;S1_2024;Valinhos;Engenharia da Computação;Computação;Projeto Integrador III;001;PJI120;10030;10030
+46;S1_2024;Vargem Grande do Sul;Bacharelado em Ciências de Dados;Computação;Aprendizado de Máquinas;002;COM330;10034;10020
+47;S1_2024;Vargem Grande do Sul;Bacharelado em Ciências de Dados;Computação;Computação Escalável;002;COM250;10040;10090
+48;S1_2024;Vargem Grande do Sul;Bacharelado em Ciências de Dados;Computação;Infraestrutura para Sistemas de Software;005;COM140;10012;10060
+49;S1_2024;Vargem Grande do Sul;Bacharelado em Ciências de Dados;Computação;Projeto Integrador III;006;PJI410;10015;10015
+50;S1_2024;Vargem Grande do Sul;Bacharelado em Ciências de Dados;Computação;Visualização Computacional;001;COM490;10020;10048
+51;S1_2024;Vargem Grande do Sul;Bacharelado em Tecnologia da Informação;Computação;Computação Escalável;002;COM460;10021;10058
+52;S1_2024;Vargem Grande do Sul;Bacharelado em Tecnologia da Informação;Computação;Gerência e Qualidade de Software;001;COM480;10012;10054
+53;S1_2024;Vargem Grande do Sul;Bacharelado em Tecnologia da Informação;Computação;Planejamento Estratégico de Negócios;002;COM470;10027;10061
+54;S1_2024;Vargem Grande do Sul;Bacharelado em Tecnologia da Informação;Computação;Projeto Integrador III;001;PJI310;10011;10011
+55;S1_2024;Vargem Grande do Sul;Bacharelado em Tecnologia da Informação;Computação;Sistemas de Informação;001;ISI001;10013;10052
+56;S1_2024;Vargem Grande do Sul;Engenharia da Computação;Computação;Desenvolvimento web;003;COM200;10022;10059
+57;S1_2024;Vargem Grande do Sul;Engenharia da Computação;Computação;Infraestrutura para Sistemas de Software;007;COM170;10017;10039
+58;S1_2024;Vargem Grande do Sul;Engenharia da Computação;Computação;Interface Humano Computador;004;COM300;10014;10074
+59;S1_2024;Vargem Grande do Sul;Engenharia da Computação;Computação;Plataforma de Ingestão e Análise de Dados;007;COM320;10024;10085
+60;S1_2024;Vargem Grande do Sul;Engenharia da Computação;Computação;Projeto Integrador III;001;PJI120;10030;10030
+61;S1_2024;Campinas;Letras;Licenciatura;Estudos de Literatura em Língua Portuguesa ;004;LET100;20020;20067
+62;S1_2024;Campinas;Letras;Licenciatura;Gêneros Narrativos na Literatura Brasileira;002;LET620;20036;20091
+63;S1_2024;Campinas;Letras;Licenciatura;Metodologia e Desenvolvimento de Materiais Didáticos para o Ensino;002;LET007;20042;20083
+64;S1_2024;Campinas;Letras;Licenciatura;Projeto Integrador para Licenciatura V;001;PJI340;20010;20010
+65;S1_2024;Campinas;Letras;Licenciatura;Semântica;004;LET330;20026;20058
+66;S1_2024;Campinas;Matemática;Licenciatura;Cálculo II para Licentura;005;MAT440;20043;20087
+67;S1_2024;Campinas;Matemática;Licenciatura;Geometria Espacial;001;MAT130;20050;20031
+68;S1_2024;Campinas;Matemática;Licenciatura;Lógica e Matemática Discreta;005;MAT270;20012;20049
+69;S1_2024;Campinas;Matemática;Licenciatura;Materiais Didáticos para o Ensino;001;MAT510;20035;20097
+70;S1_2024;Campinas;Matemática;Licenciatura;Projeto Integrador para Licenciatura IV;003;PJI200;20020;20020
+71;S1_2024;Campinas;Pedagogia;Licenciatura;Fundamentos e Práticas no Ensino de Geografia;001;PED060;20041;20063
+72;S1_2024;Campinas;Pedagogia;Licenciatura;Fundamentos e Práticas no Ensino de História;006;PED400;20070;20098
+73;S1_2024;Campinas;Pedagogia;Licenciatura;Fundamentos e Práticas no Ensino de Matemática;002;PED140;20024;20077
+74;S1_2024;Campinas;Pedagogia;Licenciatura;Materiais Didáticos para o Ensino;006;PED220;20011;20095
+75;S1_2024;Campinas;Pedagogia;Licenciatura;Projeto Integrador - Ação Docente na Alfabetização;001;PJI300;20040;20040
+76;S1_2024;São Bernardo do Campo;Letras;Licenciatura;Estudos de Literatura em Língua Portuguesa ;004;LET100;20020;20067
+77;S1_2024;São Bernardo do Campo;Letras;Licenciatura;Gêneros Narrativos na Literatura Brasileira;002;LET620;20036;20091
+78;S1_2024;São Bernardo do Campo;Letras;Licenciatura;Metodologia e Desenvolvimento de Materiais Didáticos para o Ensino;002;LET007;20042;20083
+79;S1_2024;São Bernardo do Campo;Letras;Licenciatura;Projeto Integrador para Licenciatura V;001;PJI340;20010;20010
+80;S1_2024;São Bernardo do Campo;Letras;Licenciatura;Semântica;004;LET330;20026;20058
+81;S1_2024;São Bernardo do Campo;Matemática;Licenciatura;Cálculo II para Licentura;005;MAT440;20043;20087
+82;S1_2024;São Bernardo do Campo;Matemática;Licenciatura;Geometria Espacial;001;MAT130;20050;20031
+83;S1_2024;São Bernardo do Campo;Matemática;Licenciatura;Lógica e Matemática Discreta;005;MAT270;20012;20049
+84;S1_2024;São Bernardo do Campo;Matemática;Licenciatura;Materiais Didáticos para o Ensino;001;MAT510;20035;20097
+85;S1_2024;São Bernardo do Campo;Matemática;Licenciatura;Projeto Integrador para Licenciatura IV;003;PJI200;20020;20020
+86;S1_2024;São Bernardo do Campo;Pedagogia;Licenciatura;Fundamentos e Práticas no Ensino de Geografia;001;PED060;20041;20063
+87;S1_2024;São Bernardo do Campo;Pedagogia;Licenciatura;Fundamentos e Práticas no Ensino de História;006;PED400;20070;20098
+88;S1_2024;São Bernardo do Campo;Pedagogia;Licenciatura;Fundamentos e Práticas no Ensino de Matemática;002;PED140;20024;20077
+89;S1_2024;São Bernardo do Campo;Pedagogia;Licenciatura;Materiais Didáticos para o Ensino;006;PED220;20011;20095
+90;S1_2024;São Bernardo do Campo;Pedagogia;Licenciatura;Projeto Integrador - Ação Docente na Alfabetização;001;PJI300;20040;20040
+91;S1_2024;Valinhos;Letras;Licenciatura;Estudos de Literatura em Língua Portuguesa ;004;LET100;20020;20067
+92;S1_2024;Valinhos;Letras;Licenciatura;Gêneros Narrativos na Literatura Brasileira;002;LET620;20036;20091
+93;S1_2024;Valinhos;Letras;Licenciatura;Metodologia e Desenvolvimento de Materiais Didáticos para o Ensino;002;LET007;20042;20083
+94;S1_2024;Valinhos;Letras;Licenciatura;Projeto Integrador para Licenciatura V;001;PJI340;20010;20010
+95;S1_2024;Valinhos;Letras;Licenciatura;Semântica;004;LET330;20026;20058
+96;S1_2024;Valinhos;Matemática;Licenciatura;Cálculo II para Licentura;005;MAT440;20043;20087
+97;S1_2024;Valinhos;Matemática;Licenciatura;Geometria Espacial;001;MAT130;20050;20031
+98;S1_2024;Valinhos;Matemática;Licenciatura;Lógica e Matemática Discreta;005;MAT270;20012;20049
+99;S1_2024;Valinhos;Matemática;Licenciatura;Materiais Didáticos para o Ensino;001;MAT510;20035;20097
+100;S1_2024;Valinhos;Matemática;Licenciatura;Projeto Integrador para Licenciatura IV;003;PJI200;20020;20020
+101;S1_2024;Valinhos;Pedagogia;Licenciatura;Fundamentos e Práticas no Ensino de Geografia;001;PED060;20041;20063
+102;S1_2024;Valinhos;Pedagogia;Licenciatura;Fundamentos e Práticas no Ensino de História;006;PED400;20070;20098
+103;S1_2024;Valinhos;Pedagogia;Licenciatura;Fundamentos e Práticas no Ensino de Matemática;002;PED140;20024;20077
+104;S1_2024;Valinhos;Pedagogia;Licenciatura;Materiais Didáticos para o Ensino;006;PED220;20011;20095
+105;S1_2024;Valinhos;Pedagogia;Licenciatura;Projeto Integrador - Ação Docente na Alfabetização;001;PJI300;20040;20040
+106;S1_2024;Vargem Grande do Sul;Letras;Licenciatura;Estudos de Literatura em Língua Portuguesa ;004;LET100;20020;20067
+107;S1_2024;Vargem Grande do Sul;Letras;Licenciatura;Gêneros Narrativos na Literatura Brasileira;002;LET620;20036;20091
+108;S1_2024;Vargem Grande do Sul;Letras;Licenciatura;Metodologia e Desenvolvimento de Materiais Didáticos para o Ensino;002;LET007;20042;20083
+109;S1_2024;Vargem Grande do Sul;Letras;Licenciatura;Projeto Integrador para Licenciatura V;001;PJI340;20010;20010
+110;S1_2024;Vargem Grande do Sul;Letras;Licenciatura;Semântica;004;LET330;20026;20058
+111;S1_2024;Vargem Grande do Sul;Matemática;Licenciatura;Cálculo II para Licentura;005;MAT440;20043;20087
+112;S1_2024;Vargem Grande do Sul;Matemática;Licenciatura;Geometria Espacial;001;MAT130;20050;20031
+113;S1_2024;Vargem Grande do Sul;Matemática;Licenciatura;Lógica e Matemática Discreta;005;MAT270;20012;20049
+114;S1_2024;Vargem Grande do Sul;Matemática;Licenciatura;Materiais Didáticos para o Ensino;001;MAT510;20035;20097
+115;S1_2024;Vargem Grande do Sul;Matemática;Licenciatura;Projeto Integrador para Licenciatura IV;003;PJI200;20020;20020
+116;S1_2024;Vargem Grande do Sul;Pedagogia;Licenciatura;Fundamentos e Práticas no Ensino de Geografia;001;PED060;20041;20063
+117;S1_2024;Vargem Grande do Sul;Pedagogia;Licenciatura;Fundamentos e Práticas no Ensino de História;006;PED400;20070;20098
+118;S1_2024;Vargem Grande do Sul;Pedagogia;Licenciatura;Fundamentos e Práticas no Ensino de Matemática;002;PED140;20024;20077
+119;S1_2024;Vargem Grande do Sul;Pedagogia;Licenciatura;Materiais Didáticos para o Ensino;006;PED220;20011;20095
+120;S1_2024;Vargem Grande do Sul;Pedagogia;Licenciatura;Projeto Integrador - Ação Docente na Alfabetização;001;PJI300;20040;20040
+121;S1_2024;Campinas;Bacharelado em Administração;Negócios e Produção;Ferramentas de análise e Business Intelligence (BI);007;ADM100;30026;30059
+122;S1_2024;Campinas;Bacharelado em Administração;Negócios e Produção;Metodologias Ágeis;004;ADM130;30034;30055
+123;S1_2024;Campinas;Bacharelado em Administração;Negócios e Produção;Organizações Digitais e Modelos de Negócios;004;ADM210;30017;30089
+124;S1_2024;Campinas;Bacharelado em Administração;Negócios e Produção;Planejamento Tributário;007;ADM300;30062;30080
+125;S1_2024;Campinas;Bacharelado em Administração;Negócios e Produção;Política Pública e Gestão Social;001;ADM420;30021;30064
+126;S1_2024;Campinas;Bacharelado em Administração;Negócios e Produção;Projeto Integrador - Gestão Social;003;PJI040;30040;30040
+127;S1_2024;Campinas;Engenharia de Produção;Negócios e Produção;Ciências do Ambiente;008;CAM400;30011;30024
+128;S1_2024;Campinas;Engenharia de Produção;Negócios e Produção;Indústria 4.0;001;EPR450;30015;30068
+129;S1_2024;Campinas;Engenharia de Produção;Negócios e Produção;Projeto e Desenvolvimento de Produto;004;EPR460;30013;30040
+130;S1_2024;Campinas;Engenharia de Produção;Negócios e Produção;Projeto Integrador III - Negócios e Produção;003;PJI600;30030;30030
+131;S1_2024;Campinas;Engenharia de Produção;Negócios e Produção;Simulação e Modolagem;001;EPR470;30022;30057
+132;S1_2024;Campinas;Tecnologia em Processos Gerenciais;Negócios e Produção;Ferramentas de análise e Business Intelligence (BI);002;TEC270;30017;30093
+133;S1_2024;Campinas;Tecnologia em Processos Gerenciais;Negócios e Produção;Metodologias Ágeis;004;TEC100;30024;30065
+134;S1_2024;Campinas;Tecnologia em Processos Gerenciais;Negócios e Produção;Organizações Digitais e Modelos de Negócios;001;TEC470;30068;30099
+135;S1_2024;Campinas;Tecnologia em Processos Gerenciais;Negócios e Produção;Planejamento e Ferramentas de Gestão Estratégica;004;TEC120;30041;30078
+136;S1_2024;Campinas;Tecnologia em Processos Gerenciais;Negócios e Produção;Planejamento Tributário;003;TEC360;30050;30080
+137;S1_2024;Campinas;Tecnologia em Processos Gerenciais;Negócios e Produção;Projeto Integrador - Laboratório de Práticas;001;PJI230;30040;30040
+138;S1_2024;São Bernardo do Campo;Bacharelado em Administração;Negócios e Produção;Ferramentas de análise e Business Intelligence (BI);007;ADM100;30026;30059
+139;S1_2024;São Bernardo do Campo;Bacharelado em Administração;Negócios e Produção;Metodologias Ágeis;004;ADM130;30034;30055
+140;S1_2024;São Bernardo do Campo;Bacharelado em Administração;Negócios e Produção;Organizações Digitais e Modelos de Negócios;004;ADM210;30017;30089
+141;S1_2024;São Bernardo do Campo;Bacharelado em Administração;Negócios e Produção;Planejamento Tributário;007;ADM300;30062;30080
+142;S1_2024;São Bernardo do Campo;Bacharelado em Administração;Negócios e Produção;Política Pública e Gestão Social;001;ADM420;30021;30064
+143;S1_2024;São Bernardo do Campo;Bacharelado em Administração;Negócios e Produção;Projeto Integrador - Gestão Social;003;PJI040;30040;30040
+144;S1_2024;São Bernardo do Campo;Engenharia de Produção;Negócios e Produção;Ciências do Ambiente;008;CAM400;30011;30024
+145;S1_2024;São Bernardo do Campo;Engenharia de Produção;Negócios e Produção;Indústria 4.0;001;EPR450;30015;30068
+146;S1_2024;São Bernardo do Campo;Engenharia de Produção;Negócios e Produção;Projeto e Desenvolvimento de Produto;004;EPR460;30013;30040
+147;S1_2024;São Bernardo do Campo;Engenharia de Produção;Negócios e Produção;Projeto Integrador III - Negócios e Produção;003;PJI600;30030;30030
+148;S1_2024;São Bernardo do Campo;Engenharia de Produção;Negócios e Produção;Simulação e Modolagem;001;EPR470;30022;30057
+149;S1_2024;São Bernardo do Campo;Tecnologia em Processos Gerenciais;Negócios e Produção;Ferramentas de análise e Business Intelligence (BI);002;TEC270;30017;30093
+150;S1_2024;São Bernardo do Campo;Tecnologia em Processos Gerenciais;Negócios e Produção;Metodologias Ágeis;004;TEC100;30024;30065
+151;S1_2024;São Bernardo do Campo;Tecnologia em Processos Gerenciais;Negócios e Produção;Organizações Digitais e Modelos de Negócios;001;TEC470;30068;30099
+152;S1_2024;São Bernardo do Campo;Tecnologia em Processos Gerenciais;Negócios e Produção;Planejamento e Ferramentas de Gestão Estratégica;004;TEC120;30041;30078
+153;S1_2024;São Bernardo do Campo;Tecnologia em Processos Gerenciais;Negócios e Produção;Planejamento Tributário;003;TEC360;30050;30080
+154;S1_2024;São Bernardo do Campo;Tecnologia em Processos Gerenciais;Negócios e Produção;Projeto Integrador - Laboratório de Práticas;001;PJI230;30040;30040
+155;S1_2024;Valinhos;Bacharelado em Administração;Negócios e Produção;Ferramentas de análise e Business Intelligence (BI);007;ADM100;30026;30059
+156;S1_2024;Valinhos;Bacharelado em Administração;Negócios e Produção;Metodologias Ágeis;004;ADM130;30034;30055
+157;S1_2024;Valinhos;Bacharelado em Administração;Negócios e Produção;Organizações Digitais e Modelos de Negócios;004;ADM210;30017;30089
+158;S1_2024;Valinhos;Bacharelado em Administração;Negócios e Produção;Planejamento Tributário;007;ADM300;30062;30080
+159;S1_2024;Valinhos;Bacharelado em Administração;Negócios e Produção;Política Pública e Gestão Social;001;ADM420;30021;30064
+160;S1_2024;Valinhos;Bacharelado em Administração;Negócios e Produção;Projeto Integrador - Gestão Social;003;PJI040;30040;30040
+161;S1_2024;Valinhos;Engenharia de Produção;Negócios e Produção;Ciências do Ambiente;008;CAM400;30011;30024
+162;S1_2024;Valinhos;Engenharia de Produção;Negócios e Produção;Indústria 4.0;001;EPR450;30015;30068
+163;S1_2024;Valinhos;Engenharia de Produção;Negócios e Produção;Projeto e Desenvolvimento de Produto;004;EPR460;30013;30040
+164;S1_2024;Valinhos;Engenharia de Produção;Negócios e Produção;Projeto Integrador III - Negócios e Produção;003;PJI600;30030;30030
+165;S1_2024;Valinhos;Engenharia de Produção;Negócios e Produção;Simulação e Modolagem;001;EPR470;30022;30057
+166;S1_2024;Valinhos;Tecnologia em Processos Gerenciais;Negócios e Produção;Ferramentas de análise e Business Intelligence (BI);002;TEC270;30017;30093
+167;S1_2024;Valinhos;Tecnologia em Processos Gerenciais;Negócios e Produção;Metodologias Ágeis;004;TEC100;30024;30065
+168;S1_2024;Valinhos;Tecnologia em Processos Gerenciais;Negócios e Produção;Organizações Digitais e Modelos de Negócios;001;TEC470;30068;30099
+169;S1_2024;Valinhos;Tecnologia em Processos Gerenciais;Negócios e Produção;Planejamento e Ferramentas de Gestão Estratégica;004;TEC120;30041;30078
+170;S1_2024;Valinhos;Tecnologia em Processos Gerenciais;Negócios e Produção;Planejamento Tributário;003;TEC360;30050;30080
+171;S1_2024;Valinhos;Tecnologia em Processos Gerenciais;Negócios e Produção;Projeto Integrador - Laboratório de Práticas;001;PJI230;30040;30040
+172;S1_2024;Vargem Grande do Sul;Bacharelado em Administração;Negócios e Produção;Ferramentas de análise e Business Intelligence (BI);007;ADM100;30026;30059
+173;S1_2024;Vargem Grande do Sul;Bacharelado em Administração;Negócios e Produção;Metodologias Ágeis;004;ADM130;30034;30055
+174;S1_2024;Vargem Grande do Sul;Bacharelado em Administração;Negócios e Produção;Organizações Digitais e Modelos de Negócios;004;ADM210;30017;30089
+175;S1_2024;Vargem Grande do Sul;Bacharelado em Administração;Negócios e Produção;Planejamento Tributário;007;ADM300;30062;30080
+176;S1_2024;Vargem Grande do Sul;Bacharelado em Administração;Negócios e Produção;Política Pública e Gestão Social;001;ADM420;30021;30064
+177;S1_2024;Vargem Grande do Sul;Bacharelado em Administração;Negócios e Produção;Projeto Integrador - Gestão Social;003;PJI040;30040;30040
+178;S1_2024;Vargem Grande do Sul;Engenharia de Produção;Negócios e Produção;Ciências do Ambiente;008;CAM400;30011;30024
+179;S1_2024;Vargem Grande do Sul;Engenharia de Produção;Negócios e Produção;Indústria 4.0;001;EPR450;30015;30068
+180;S1_2024;Vargem Grande do Sul;Engenharia de Produção;Negócios e Produção;Projeto e Desenvolvimento de Produto;004;EPR460;30013;30040
+181;S1_2024;Vargem Grande do Sul;Engenharia de Produção;Negócios e Produção;Projeto Integrador III - Negócios e Produção;003;PJI600;30030;30030
+182;S1_2024;Vargem Grande do Sul;Engenharia de Produção;Negócios e Produção;Simulação e Modolagem;001;EPR470;30022;30057
+183;S1_2024;Vargem Grande do Sul;Tecnologia em Processos Gerenciais;Negócios e Produção;Ferramentas de análise e Business Intelligence (BI);002;TEC270;30017;30093
+184;S1_2024;Vargem Grande do Sul;Tecnologia em Processos Gerenciais;Negócios e Produção;Metodologias Ágeis;004;TEC100;30024;30065
+185;S1_2024;Vargem Grande do Sul;Tecnologia em Processos Gerenciais;Negócios e Produção;Organizações Digitais e Modelos de Negócios;001;TEC470;30068;30099
+186;S1_2024;Vargem Grande do Sul;Tecnologia em Processos Gerenciais;Negócios e Produção;Planejamento e Ferramentas de Gestão Estratégica;004;TEC120;30041;30078
+187;S1_2024;Vargem Grande do Sul;Tecnologia em Processos Gerenciais;Negócios e Produção;Planejamento Tributário;003;TEC360;30050;30080
+188;S1_2024;Vargem Grande do Sul;Tecnologia em Processos Gerenciais;Negócios e Produção;Projeto Integrador - Laboratório de Práticas;001;PJI230;30040;30040

@@ -4,5 +4,7 @@ from . import views
 
 urlpatterns = [
     path('', views.home, name='home'),
-    path('', views.login, name='login'),
+    path('login/', views.login, name='login'),
+    path('graph/', views.PolosView.as_view())
+    
 ]

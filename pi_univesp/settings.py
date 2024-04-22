@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-krxgwb_lb4f(vbj-0sb$*v8=4d^8hf6@yy0s0h*r8)6m-&awzq
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["alineluisa.pythonanywhere.com"]
 
 
 # Application definition
@@ -78,7 +78,7 @@ WSGI_APPLICATION = 'pi_univesp.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'NAME': BASE_DIR / 'polos.db',        
     }
 }
 
