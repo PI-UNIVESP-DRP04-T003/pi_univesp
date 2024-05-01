@@ -22,7 +22,7 @@ class Polos(models.Model):
 
 class Cursos(models.Model):
     id = models.TextField(blank=True, null=False, primary_key=True)
-    período = models.TextField(db_column='Período', blank=True, null=True)  # Field name made lowercase.                                
+    período = models.TextField(db_column='Período', blank=True, null=True)  # Field name made lowercase.
     polo = models.TextField(db_column='Polo', blank=True, null=True)  # Field name made lowercase.
     curso = models.TextField(db_column='Curso', blank=True, null=True)  # Field name made lowercase.
     eixo = models.TextField(db_column='Eixo', blank=True, null=True)  # Field name made lowercase.
@@ -31,8 +31,8 @@ class Cursos(models.Model):
     código_disciplina = models.TextField(db_column='Código Disciplina', blank=True, null=True)  # Field name made lowercase. Field renam
     código_prof_respons_field = models.TextField(db_column='Código Prof. Respons.', blank=True, null=True)  # Field name made lowercase.
     código_prof_videoaula = models.TextField(db_column='Código Prof. Videoaula', blank=True, null=True)  # Field name made lowercase. Fi
- 
+
     class Meta:
         managed = False
         db_table = 'cursos'
-                                   
+
