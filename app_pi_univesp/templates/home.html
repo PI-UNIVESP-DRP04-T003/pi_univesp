@@ -1,12 +1,34 @@
-{% extends "base/base.html" %}
-{% block content %}
-<div class="formtext">
-    <h3>
-    BEM VINDO ao Portal ------ criamos esta plataforma direcionada aos estudantes da UNIVESP.
-    Ao acessar o Portal o estudante tem acesso a vários dados e gráficos dos cursos UNIVESP, incluindo seu atual curso ou futuro curso para aqueles que desejam prestar o vestibular e iniciar seus estudos On-Line.
-    Aqui o você pode ter uma percepção mais realista do tamanho da Universidade que se tornou a UNIVESP, uma das maiores universidades On-Line do país.
-    Registre-se e junte-se a nós para esta analise de como o seu futuro pode ser grandioso.
-</h3>
-</div>
-{% endblock %}
 
+{% extends "base/base.html" %}
+{% load static %}
+{% block content %}
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portal Univesp em Gráficos</title>
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+</head>
+
+<body>
+    
+    <main>
+        <section class="welcome-section">
+            <div class="container">
+                <h1 class="title">BEM VINDO ao Portal Univesp em Gráficos!</h1>
+                <p class="description">Esta plataforma é direcionada aos estudantes da UNIVESP e à comunidade em geral.</p>
+                <p class="description">Ao acessar o Portal, o estudante tem acesso a vários dados e gráficos dos cursos UNIVESP, incluindo seu atual curso ou futuro curso para aqueles que desejam prestar o vestibular e iniciar seus estudos On-Line.</p>
+                <p class="description">Aqui você pode ter uma percepção mais realista do tamanho da Universidade que se tornou a UNIVESP, uma das maiores universidades de Educação a Distância do país.</p>
+                <p class="description">Junte-se a nós para esta análise de como o seu futuro pode ser grandioso.</p>
+            </div>
+        </section>
+    </main>
+
+    
+    <script src="{% static 'js/script.js' %}"></script>
+</body>
+
+</html>
+
+{% endblock %}
