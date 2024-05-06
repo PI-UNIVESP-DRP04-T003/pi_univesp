@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'app_pi_univesp',
-    
+
 ]
 
 MIDDLEWARE = [
@@ -78,7 +78,7 @@ WSGI_APPLICATION = 'pi_univesp.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'polos.db',        
+        'NAME': BASE_DIR / 'polos.db',
     }
 }
 
@@ -120,8 +120,12 @@ USE_TZ = True
 import os
 STATIC_DIR = os.path.join(BASE_DIR,"static")
 STATIC_URL = '/static/'
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 STATICFILES_DIRS = [
     STATIC_DIR,
+    "/home/AlineLuisa/pi_univesp/static",
+    "/home/AlineLuisa/pi_univesp/static/img",
+    "/home/AlineLuisa/pi_univesp/static/img/logo",
 ]
 
 # Default primary key field type
